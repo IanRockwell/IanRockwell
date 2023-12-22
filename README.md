@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian Rockwell
+- 👋 Hi, I’m Ian
 - 👀 I’m interested in Software Development, and programming as a whole (excluding front-end development)
 - 🌱 I’m currently learning python, but plan to learn others
 - 📫 If you wish to contact me, shoot me an email @ ianrockwell10@gmail.com
