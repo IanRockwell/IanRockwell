@@ -63,10 +63,10 @@ Built a Python-based chatbot that retrieves and displays real-time player data. 
 ### Light Novel Reader
 Developed a custom reader using Python that converts user-selected chapters from supported light novel websites into AI-narrated audiobooks using web scraping through Beautiful Soup and Selenium.
 
-### Luminbot – [https://github.com/IanRockwell/LuminBot/wiki](https://github.com/IanRockwell/LuminBot/wiki)
+### Luminbot – [LuminBot](https://github.com/IanRockwell/LuminBot/wiki](https://github.com/IanRockwell/LuminBot/wiki)
 Engineered custom Twitch/Discord bots using Python, Discord.py, and Twitch.io, extending beyond standard API functionality with custom chat commands, including a greeting or quoting; URL calling; a watch streak calculator and record holder; and first player stream tracker.
 
-### Crate Maker – [Crate Maker][https://github.com/Zabrid/Zabrid-Crate-Maker]
+### Crate Maker – [Crate Maker](https://github.com/Zabrid/Zabrid-Crate-Maker)
 Developed a Minecraft crate system using Skript, automating the creation and management of reward crates.
 
 ### Command Maker – [Command Maker](https://www.spigotmc.org/resources/zabrids-command-maker-1-17-1-19.102056/)
