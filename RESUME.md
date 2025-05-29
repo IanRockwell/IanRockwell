@@ -66,13 +66,13 @@ Developed a custom reader using Python that converts user-selected chapters from
 ### Luminbot – [https://github.com/IanRockwell/LuminBot/wiki](https://github.com/IanRockwell/LuminBot/wiki)
 Engineered custom Twitch/Discord bots using Python, Discord.py, and Twitch.io, extending beyond standard API functionality with custom chat commands, including a greeting or quoting; URL calling; a watch streak calculator and record holder; and first player stream tracker.
 
-### Crate Maker – [Crate Maker](Crate Maker)
+### Crate Maker – [Crate Maker][https://github.com/Zabrid/Zabrid-Crate-Maker]
 Developed a Minecraft crate system using Skript, automating the creation and management of reward crates.
 
-### Command Maker – [Command Maker](Command Maker)
+### Command Maker – [Command Maker](https://www.spigotmc.org/resources/zabrids-command-maker-1-17-1-19.102056/)
 Developed custom in-game commands using Skript, creating a no-code platform that abstracts complex coding and empowers users to generate commands through a simplified, user-friendly interface.
 
-### Factions Core – [SkFactionsCore](SkFactionsCore)
+### Factions Core – [SkFactionsCore](https://github.com/IanRockwell/SkFactionsCore/wiki)
 Designed custom features plugin for Minecraft servers, including a sand bot, gen buckets, freecam, etc.
 
 ## Commissioned Projects
