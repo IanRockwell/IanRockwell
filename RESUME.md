@@ -14,7 +14,6 @@ Innovative technology student, dual-enrolled in high school and college-level co
 - **Python** – Flask/Beautiful Soup/Selenium/Discord.py/Twitch.io
 - **SQL**
 - **Java** - Spigot API
-- **Skript**
 
 ### Back-End Technologies & Databases
 - HTML
