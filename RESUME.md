@@ -11,7 +11,7 @@ Innovative technology student, dual-enrolled in high school and college-level co
 ## Technology Skills
 
 ### Programming Languages
-- **Python** – Flask/Beautiful Soup/Selenium/Discord.py/Twitch.io
+- **Python** – FastAPI/Flask/Beautiful Soup/Selenium/Discord.py/Twitch.io
 - **SQL**
 - **Java** - Spigot API
 
