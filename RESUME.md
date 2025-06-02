@@ -17,7 +17,7 @@ Innovative technology student, dual-enrolled in high school and college-level co
 
 ### Back-End Technologies & Databases
 - HTML
-- Rest API
+- Rest API (& Json APIs)
 - CSS
 - Access
 - SQL
