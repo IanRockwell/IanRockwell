@@ -54,7 +54,7 @@ Supports the industry standard CompTIA A+ certification and Microsoft Office Spe
 Designed and deployed a custom JSON-based data storage system for a Minecraft server, streamlining player data management by enabling fast, automated creation and retrieval of user-specific files at login.
 
 ### Zabrid API – [http://zabriddev.ddns.net/](http://zabriddev.ddns.net/)
-Built a Python-based chatbot that retrieves and displays real-time player data. Using Flask for the back-end, and basic HTML,CSS, and JavaScript for front-end.
+Built a Python-based Rest API, that's used by twitch chat bots. It retrieves and displays real-time player data. Using Flask for the back-end, and basic HTML,CSS, and JavaScript for front-end.
 
 - Engineered custom API solution for Twitch streamers playing Osu! that simulates a virtual session, spectating players via code, retrieving player ranks and wins/losses through VALORANT, extracting live map data, and returning through chatbot commands.
 - API has been adopted by 200+ users, including streamers with thousands of viewers.
