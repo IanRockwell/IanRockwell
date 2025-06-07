@@ -40,7 +40,7 @@ No-code tool for creating Minecraft commands with Skript.
 ## Commissions
 
 - Clan & Farming Scripts (Minecraft)  
-- Daily Prediction Generator  
+- Daily Prediction Generator Twitch Bot
 
 ## Volunteer
 
