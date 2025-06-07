@@ -1,95 +1,47 @@
 # Ian Rockwell
 
-**Phone:** 864.221.8804  
 **Email:** Ianrockwell10@gmail.com  
-**Location:** Anderson, SC 29625
+**Location:** Anderson, SC 29625  
 
-## Emerging Technology Leader & Technology Enthusiast
+## Technology Student & Developer  
 
-Innovative technology student, dual-enrolled in high school and college-level coursework, actively building a strong foundation while gaining real-world experience developing and deploying custom tech solutions. Skilled in scripting, automation, and backend application development, building bots, APIs, and game scripts that enhance user engagement and functionality. Hands-on experience in programming logic, databases, and network systems, with a growing technology portfolio.
+Dual-enrolled student with hands-on experience in backend development, scripting, automation, and game tools. Skilled in Python, REST APIs, web scraping, and Minecraft plugin development.
 
-## Technology Skills
+## Skills
 
-### Programming Languages
-- **Python** – FastAPI/Flask/Beautiful Soup/Selenium/Discord.py/Twitch.io
-- **SQL**
-- **Java** - Spigot API
-
-### Back-End Technologies & Databases
-- HTML
-- Rest API (& Json APIs)
-- CSS
-- Access
-- SQL
-- MongoDB
-- GIT
-
-### Software Applications
-- MS Excel
-- MS Word
-- MS Outlook
-- MS PowerPoint
-- MS Teams
-- Zoom
-- GitHub
+**Languages:** Python (Flask, FastAPI, Selenium, Beautiful Soup), SQL, Java (Spigot API)  
+**Web/DB:** HTML, CSS, REST APIs, MongoDB, Access, Git  
+**Tools:** GitHub, MS Office, Zoom, Teams  
 
 ## Education
 
-### Computer Technician Certificate
-**TRI COUNTY TECHNICAL COLLEGE** | Anderson, SC | 2024 – 2025
+**Tri-County Technical College** – Computer Technician Cert. (2024–2025)  
+**Connections Academy** – HS Diploma (2019–2025)
 
-Supports the industry standard CompTIA A+ certification and Microsoft Office Specialist (MOS) certification requirements.
+## Projects
 
-**Relevant Courses:** Intro to Programming Logic • Microcomputer Applications • Advanced Microcomputer Application • Data Communications • PC Hardware Concepts • Intro to Web Page Production
+**Zabrid API** – [zabriddev.ddns.net](http://zabriddev.ddns.net)  
+Twitch API for live game data (Osu!, VALORANT); used by 200+ streamers.  
 
-**Key Project:** Authored content and designed a website for a fictional presidential candidate, creating a menu bar, landing page, home page, event schedule page and map, biography, and a feedback/donate page with a form.
+**LuminBot** – [GitHub](https://github.com/IanRockwell/LuminBot/wiki)  
+Custom Twitch/Discord bot with chat commands and trackers.  
 
-### CONNECTIONS ACADEMY | 2019 – 2025
+**Light Novel Reader**  
+Python tool converting scraped text into AI-narrated audiobooks.
 
-**Relevant Courses:** Fundamentals of Web Design and Development • Game Design I • Digital Workplace Applications
+**Command Maker** – [Spigot](https://www.spigotmc.org/resources/zabrids-command-maker-1-17-1-19.102056/)  
+No-code tool for creating Minecraft commands with Skript.
 
-## Personal Projects
+**Other:**  
+- Minecraft Crate System [GitHub](https://github.com/Zabrid/Zabrid-Crate-Maker)  
+- Factions Plugin [GitHub](https://github.com/IanRockwell/SkFactionsCore/wiki)  
+- JSON Player Database  
 
-### Database Development
-Designed and deployed a custom JSON-based data storage system for a Minecraft server, streamlining player data management by enabling fast, automated creation and retrieval of user-specific files at login.
+## Commissions
 
-### Zabrid API – [http://zabriddev.ddns.net/](http://zabriddev.ddns.net/)
-Built a Python-based Rest API, that's used by twitch chat bots. It retrieves and displays real-time player data. Using Flask for the back-end, and basic HTML,CSS, and JavaScript for front-end. It is hosted on a simple home server using Waitress.
+- Clan & Farming Scripts (Minecraft)  
+- Daily Prediction Generator  
 
-- Engineered custom API solution for Twitch streamers playing Osu! that simulates a virtual session, spectating players via code, retrieving player ranks and wins/losses through VALORANT, extracting live map data, and returning through chatbot commands.
-- API has been adopted by 200+ users, including streamers with thousands of viewers.
+## Volunteer
 
-### Light Novel Reader
-Developed a custom reader using Python that converts user-selected chapters from supported light novel websites into AI-narrated audiobooks using web scraping through Beautiful Soup and Selenium.
-
-### Luminbot – [LuminBot](https://github.com/IanRockwell/LuminBot/wiki)
-Engineered custom Twitch/Discord bots using Python, Discord.py, and Twitch.io, extending beyond standard API functionality with custom chat commands, including a greeting or quoting; URL calling; a watch streak calculator and record holder; and first player stream tracker.
-
-### Crate Maker – [Crate Maker](https://github.com/Zabrid/Zabrid-Crate-Maker)
-Developed a Minecraft crate system using Skript, automating the creation and management of reward crates.
-
-### Command Maker – [Command Maker](https://www.spigotmc.org/resources/zabrids-command-maker-1-17-1-19.102056/)
-Developed custom in-game commands using Skript, creating a no-code platform that abstracts complex coding and empowers users to generate commands through a simplified, user-friendly interface.
-
-### Factions Core – [SkFactionsCore](https://github.com/IanRockwell/SkFactionsCore/wiki)
-Designed custom features plugin for Minecraft servers, including a sand bot, gen buckets, freecam, etc.
-
-## Commissioned Projects
-
-Independently contracted to write custom scripts through word-of-mouth referrals, leveraging expertise in game logic, scripting languages, and scripting environments and showcasing deep understanding of game development tools.
-
-### Clan Script for Minecraft
-Custom script to create and manage clans, invite members, and purchase exclusive perks.
-
-### Harvester Hoe for Minecraft
-Developed a script to automate farming of wheat, sugar cane, and carrots.
-
-### Prediction of the Day
-Built and hosted a program that generated and displayed daily omens and predictions.
-
-## Work History
-
-### Volunteer
-**ANDERSON COUNTY LIBRARY** | Anderson, SC | Summer 2023
-
-Configured a Minecraft server for a newly formed Minecraft club.
+**Anderson County Library** – Set up Minecraft server (Summer 2023)
