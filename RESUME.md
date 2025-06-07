@@ -34,7 +34,7 @@ No-code tool for creating Minecraft commands with Skript.
 
 **Other:**  
 - Minecraft Crate System [GitHub](https://github.com/Zabrid/Zabrid-Crate-Maker)  
-- Factions Plugin [GitHub](https://github.com/IanRockwell/SkFactionsCore/wiki)  
+- Factions Core [GitHub](https://github.com/IanRockwell/SkFactionsCore/wiki)  
 - JSON Player Database  
 
 ## Commissions
