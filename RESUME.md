@@ -5,7 +5,7 @@
 
 ## Technology Student & Developer  
 
-Dual-enrolled student with hands-on experience in backend development, scripting, automation, and game tools. Skilled in Python, REST APIs, web scraping, and Minecraft plugin development.
+Hands-on experience in backend development, scripting, automation, and game tools. Skilled in Python, REST APIs, web scraping, and Minecraft plugin development.
 
 ## Skills
 
