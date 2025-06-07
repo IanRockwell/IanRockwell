@@ -44,4 +44,4 @@ No-code tool for creating Minecraft commands with Skript.
 
 ## Volunteer
 
-**Anderson County Library** – Set up Minecraft server (Summer 2023)
+**Anderson County Library** – Set up Minecraft (Bedrock & Java comparible) server for club (Summer 2023)
