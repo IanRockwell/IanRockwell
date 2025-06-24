@@ -9,7 +9,7 @@ Hands-on experience in backend development, scripting, automation, and game tool
 
 ## Skills
 
-**Languages:** Python (Flask, FastAPI, Selenium, Beautiful Soup, Edge-TTS), SQL, Java (Spigot API)  
+**Languages:** Python (Flask, FastAPI, Selenium, Beautiful Soup, Edge-TTS), SQL, Java (Spigot/Paper API)  
 **Web/DB:** HTML, CSS, REST APIs, MongoDB, Access, Git  
 **Tools:** GitHub, MS Office, Zoom, Teams  
 
