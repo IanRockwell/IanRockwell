@@ -15,7 +15,7 @@ Hands-on experience in backend development, scripting, automation, and game tool
 
 ## Education
 
-**Tri-County Technical College** – Computer Technician Cert. (2024–2025)  
+**Tri-County Technical College** – Expected 2027 Graduation (2024–Present)  
 **Connections Academy** – HS Diploma (2019–2025)
 
 ## Projects
