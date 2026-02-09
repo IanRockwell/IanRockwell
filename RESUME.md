@@ -9,7 +9,7 @@ Hands-on experience in backend development, scripting, automation, and game tool
 
 ## Skills
 
-**Languages:** Python (Discord.py, Flask, FastAPI, Selenium, Beautiful Soup, Edge-TTS), SQL, Java (Spigot/Paper API)  
+**Languages:** Python (Discord.py, Flask, FastAPI, Selenium, Beautiful Soup), SQL, Java (Spigot/Paper API)  
 **Web/DB:** HTML, CSS, REST APIs, MongoDB, Access, Git  
 **Tools:** GitHub, MS Office, Zoom, Teams  
 
@@ -28,17 +28,6 @@ Custom Discord bot for verifying [Rhythm-Typer](https://rhythm-typer.web.app/) b
 
 **LuminBot** – [GitHub](https://github.com/IanRockwell/LuminBot/wiki)  
 Custom Twitch/Discord bot with chat commands and trackers.  
-
-**Light Novel Reader**  
-Python tool converting scraped text into AI-narrated audiobooks.
-
-**Command Maker** – [Spigot](https://www.spigotmc.org/resources/zabrids-command-maker-1-17-1-19.102056/)  
-No-code tool for creating Minecraft commands with Skript.
-
-**Other:**  
-- Minecraft Crate System [GitHub](https://github.com/Zabrid/Zabrid-Crate-Maker)  
-- Factions Core [GitHub](https://github.com/IanRockwell/SkFactionsCore/wiki)  
-- JSON Player Database  
 
 ## Commissions
 
